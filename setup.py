@@ -29,7 +29,7 @@ setuptools.setup(
     description="Python wrapper for the Linkedin API",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
-    url="https://github.com/tomquirk/linkedin-api",
+    url="https://github.com/FlaviusMD/linkedin-api.git",
     license="MIT",
     packages=setuptools.find_packages(),
     install_requires=["requests", "beautifulsoup4", "lxml"],
